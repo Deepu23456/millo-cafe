@@ -1,7 +1,6 @@
 import { useEffect } from "react";
 import { gsap } from "gsap";
 import "./Hero.css";
-import cafeVideo from "../assets/cafe-video.mp4";
 
 const Hero = () => {
     useEffect(() => {
@@ -17,17 +16,10 @@ const Hero = () => {
         <section className="hero" id="home">
             {/* Background Image */}
             <div className="hero-bg">
-                <video
-                    src={cafeVideo}
-                    autoPlay
-                    loop
-                    muted
-                    playsInline
-                    className="hero-video"
-                >
-                    Your browser does not support the video tag.
-                </video>
-
+                <img
+                    src="https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=1600&auto=format&fit=crop"
+                    alt="Millo Cafe"
+                />
                 <div className="hero-overlay"></div>
             </div>
 
