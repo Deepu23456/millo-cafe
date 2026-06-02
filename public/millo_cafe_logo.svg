@@ -1,0 +1,75 @@
+<svg width="100%" viewBox="0 0 680 680" role="img" style="" xmlns="http://www.w3.org/2000/svg"><defs><mask id="imagine-text-gaps-gqkttr" maskUnits="userSpaceOnUse"><rect x="0" y="0" width="680" height="680" fill="white"/><rect x="115.6259994506836" y="100.23560333251953" width="307.3551025390625" height="166.935302734375" fill="black" rx="2"/><rect x="178.5222625732422" y="404.5270080566406" width="306.74200439453125" height="85.80511474609375" fill="black" rx="2"/><rect x="220.28750610351562" y="473.20001220703125" width="19.425000190734863" height="20" fill="black" rx="2"/><rect x="330.2875061035156" y="485.20001220703125" width="19.425000190734863" height="20" fill="black" rx="2"/><rect x="440.2875061035156" y="473.20001220703125" width="19.425000190734863" height="20" fill="black" rx="2"/></mask></defs>
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Millo Café vintage logo</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">A circular vintage style logo for Millo Café with coffee cup and decorative elements</desc>
+
+  
+
+  <!-- Outer circle background -->
+  <circle cx="340" cy="340" r="280" fill="#2C1A0E" style="fill:rgb(44, 26, 14);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Outer decorative ring -->
+  <circle cx="340" cy="340" r="275" fill="none" stroke="#D4831A" stroke-width="2.5" style="fill:none;stroke:rgb(212, 131, 26);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="340" cy="340" r="260" fill="none" stroke="#D4831A" stroke-width="1" style="fill:none;stroke:rgb(212, 131, 26);color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Inner cream circle -->
+  <circle cx="340" cy="340" r="240" fill="#FAF6F1" style="fill:rgb(250, 246, 241);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Inner decorative ring -->
+  <circle cx="340" cy="340" r="235" fill="none" stroke="#2C1A0E" stroke-width="1.5" style="fill:none;stroke:rgb(44, 26, 14);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="340" cy="340" r="222" fill="none" stroke="#D4831A" stroke-width="1" style="fill:none;stroke:rgb(212, 131, 26);color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Coffee cup body -->
+  <rect x="285" y="310" width="110" height="80" rx="6" fill="#2C1A0E" style="fill:rgb(44, 26, 14);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Cup base -->
+  <rect x="275" y="386" width="130" height="12" rx="6" fill="#2C1A0E" style="fill:rgb(44, 26, 14);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Saucer -->
+  <ellipse cx="340" cy="402" rx="80" ry="10" fill="#2C1A0E" style="fill:rgb(44, 26, 14);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Cup handle -->
+  <path d="M395 330 Q430 330 430 360 Q430 390 395 390" fill="none" stroke="#2C1A0E" stroke-width="10" stroke-linecap="round" style="fill:none;stroke:rgb(44, 26, 14);color:rgb(255, 255, 255);stroke-width:10px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Coffee surface inside cup -->
+  <ellipse cx="340" cy="318" rx="48" ry="8" fill="#D4831A" opacity="0.9" style="fill:rgb(212, 131, 26);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.9;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Steam lines -->
+  <path d="M310 295 Q305 275 310 258" fill="none" stroke="#D4831A" stroke-width="3" stroke-linecap="round" mask="url(#imagine-text-gaps-gqkttr)" style="fill:none;stroke:rgb(212, 131, 26);color:rgb(255, 255, 255);stroke-width:3px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path d="M340 290 Q335 265 340 248" fill="none" stroke="#D4831A" stroke-width="3" stroke-linecap="round" mask="url(#imagine-text-gaps-gqkttr)" style="fill:none;stroke:rgb(212, 131, 26);color:rgb(255, 255, 255);stroke-width:3px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path d="M370 295 Q365 275 370 258" fill="none" stroke="#D4831A" stroke-width="3" stroke-linecap="round" mask="url(#imagine-text-gaps-gqkttr)" style="fill:none;stroke:rgb(212, 131, 26);color:rgb(255, 255, 255);stroke-width:3px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Top curved text arc - MILLO CAFÉ -->
+  <path id="topArc" d="M 130 340 A 210 210 0 0 1 550 340" fill="none" mask="url(#imagine-text-gaps-gqkttr)" style="fill:none;stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text font-size="30" font-weight="700" letter-spacing="12" font-family="Georgia, serif" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:30px;font-weight:700;text-anchor:start;dominant-baseline:auto">
+    <textPath href="#topArc" startOffset="12%" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:30px;font-weight:700;text-anchor:start;dominant-baseline:auto">
+      <tspan fill="#2C1A0E" style="fill:rgb(44, 26, 14);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:30px;font-weight:700;text-anchor:start;dominant-baseline:auto">MILLO CAFÉ</tspan>
+    </textPath>
+  </text>
+
+  <!-- Bottom curved text arc -->
+  <path id="bottomArc" d="M 148 360 A 210 210 0 0 0 532 360" fill="none" mask="url(#imagine-text-gaps-gqkttr)" style="fill:none;stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text font-size="16" font-weight="400" letter-spacing="6" font-family="Georgia, serif" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+    <textPath href="#bottomArc" startOffset="14%" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      <tspan fill="#7A9E7E" style="fill:rgb(122, 158, 126);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">SINCE 2014 • NEW DELHI</tspan>
+    </textPath>
+  </text>
+
+  <!-- Decorative dots on sides -->
+  <circle cx="148" cy="340" r="5" fill="#D4831A" style="fill:rgb(212, 131, 26);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="532" cy="340" r="5" fill="#D4831A" style="fill:rgb(212, 131, 26);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Small wheat/leaf decorations -->
+  <!-- Left leaf -->
+  <path d="M175 370 Q160 355 168 340 Q178 355 175 370Z" fill="#7A9E7E" style="fill:rgb(122, 158, 126);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path d="M175 370 Q190 355 182 340 Q172 355 175 370Z" fill="#7A9E7E" style="fill:rgb(122, 158, 126);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="175" y1="370" x2="175" y2="340" stroke="#7A9E7E" stroke-width="1.5" style="fill:rgb(0, 0, 0);stroke:rgb(122, 158, 126);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Right leaf -->
+  <path d="M505 370 Q490 355 498 340 Q508 355 505 370Z" fill="#7A9E7E" style="fill:rgb(122, 158, 126);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path d="M505 370 Q520 355 512 340 Q502 355 505 370Z" fill="#7A9E7E" style="fill:rgb(122, 158, 126);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="505" y1="370" x2="505" y2="340" stroke="#7A9E7E" stroke-width="1.5" style="fill:rgb(0, 0, 0);stroke:rgb(122, 158, 126);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Star decorations -->
+  <text x="230" y="488" font-size="14" fill="#D4831A" text-anchor="middle" font-family="serif" style="fill:rgb(212, 131, 26);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:serif;font-size:14px;font-weight:400;text-anchor:middle;dominant-baseline:auto">✦</text>
+  <text x="340" y="500" font-size="14" fill="#D4831A" text-anchor="middle" font-family="serif" style="fill:rgb(212, 131, 26);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:serif;font-size:14px;font-weight:400;text-anchor:middle;dominant-baseline:auto">✦</text>
+  <text x="450" y="488" font-size="14" fill="#D4831A" text-anchor="middle" font-family="serif" style="fill:rgb(212, 131, 26);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:serif;font-size:14px;font-weight:400;text-anchor:middle;dominant-baseline:auto">✦</text>
+
+</svg>
